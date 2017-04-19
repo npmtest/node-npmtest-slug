@@ -1,4 +1,7 @@
-# test coverage for  [slug (v0.9.1)](https://github.com/dodo/node-slug)  [![npm package](https://img.shields.io/npm/v/npmtest-slug.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-slug) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-slug.svg)](https://travis-ci.org/npmtest/node-npmtest-slug)
+# npmtest-slug
+
+#### basic test coverage for  [slug (v0.9.1)](https://github.com/dodo/node-slug)  [![npm package](https://img.shields.io/npm/v/npmtest-slug.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-slug) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-slug.svg)](https://travis-ci.org/npmtest/node-npmtest-slug)
+
 #### slugifies even utf-8 chars!
 
 [![NPM](https://nodei.co/npm/slug.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/slug)
